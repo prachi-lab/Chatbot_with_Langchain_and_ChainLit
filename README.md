@@ -23,9 +23,30 @@ Some of the key features of Chainlit include:
 - **Easy deployment:** Chainlit can be deployed to any web server, making it easy to share your chatbot with others.
 
 ## Getting Started
+### - Set up a virtual environment
 ### Requirements:
 **`pip install chainlit langchain tabulate pandas openai`**
 ### Use
 > Python Version: 3.10
 ### To run UI:
 **`chainlit run bot.py -w`**
+![image](https://github.com/prachi-lab/Chatbot_with_Langchain_and_ChainLit/assets/63344962/97176879-56da-49ed-a45e-e55f50def974)
+
+#### When question is related to the data from the provided files
+![image](https://github.com/prachi-lab/Chatbot_with_Langchain_and_ChainLit/assets/63344962/20cdb653-c95a-41c5-af75-1388cb024d77)
+#### When question is not related to the data from the provided files
+![image](https://github.com/prachi-lab/Chatbot_with_Langchain_and_ChainLit/assets/63344962/9df7fc16-a8b7-447f-bea9-a2298d33e758)
+
+
+# Note:
+**Error will be there because of using free OPENAI_API_KEY**
+![image](https://github.com/prachi-lab/Chatbot_with_Langchain_and_ChainLit/assets/63344962/d8394a50-9d5e-4e87-b6a5-7b074a727ce6)
+**To avoid this use paid OPENAI_API_KEY**
+
+
+
+
+
+
+
+
