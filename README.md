@@ -41,6 +41,7 @@ Some of the key features of Chainlit include:
 # Note:
 **Error will be there because of using free OPENAI_API_KEY**
 ![image](https://github.com/prachi-lab/Chatbot_with_Langchain_and_ChainLit/assets/63344962/d8394a50-9d5e-4e87-b6a5-7b074a727ce6)
+
 **To avoid this use paid OPENAI_API_KEY**
 
 
